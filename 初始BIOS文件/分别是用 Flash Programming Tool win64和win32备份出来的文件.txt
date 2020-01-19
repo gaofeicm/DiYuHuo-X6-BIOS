@@ -1,0 +1,1 @@
+分别是用 Flash Programming Tool win64文件夹下FPTW64.exe 和win32文件夹下FPTW.exe备份出来的文件
